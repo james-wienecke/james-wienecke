@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.JS**, **Spring Boot**
 
-- 👨‍💻 Browse[my github repos](https://github.com/james-wienecke?tab=repositories)
+- 👨‍💻 Browse [my github repos](https://github.com/james-wienecke?tab=repositories)
 
 - 💬 Ask me about **React, TypeScript**
 
