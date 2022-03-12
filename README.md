@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-wienecke" alt="james-wienecke" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/james-wienecke/james-wienecke.github.io)
+- 🔭 I’m currently working on [FilmSage](https://github.com/filmsage/filmsage)
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Next.JS**, **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/james-wienecke?tab=repositories](https://github.com/james-wienecke?tab=repositories)
+- 👨‍💻 Browse[my github repos](https://github.com/james-wienecke?tab=repositories)
 
-- 💬 Ask me about **React, Java Collections**
+- 💬 Ask me about **React, TypeScript**
 
 - 📫 How to reach me **james.a.wienecke@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pHdNnDOfOks5xMXqPo4t1gejcFgbNzJs-Tzmzz5gheQ/edit?usp=sharing](https://docs.google.com/document/d/1pHdNnDOfOks5xMXqPo4t1gejcFgbNzJs-Tzmzz5gheQ/edit?usp=sharing)
+- 📄 Check out my [resume](https://docs.google.com/document/d/1pHdNnDOfOks5xMXqPo4t1gejcFgbNzJs-Tzmzz5gheQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I enjoy 100 gecs**
 
