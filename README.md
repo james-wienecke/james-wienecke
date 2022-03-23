@@ -15,7 +15,7 @@
 
 - 📄 Check out my [resume](https://docs.google.com/document/d/1pHdNnDOfOks5xMXqPo4t1gejcFgbNzJs-Tzmzz5gheQ/edit?usp=sharing)
 
-- ⚡ Fun fact **I enjoy 100 gecs**
+- ⚡ Fun fact **I enjoy 100 gecs**, **I'm a great cook,** and **I know a secret technique for tying shoelaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
