@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=james-wienecke" alt="james-wienecke" /></a> </p>
 
-- 🔭 I’m currently working on [FilmSage](https://github.com/filmsage/filmsage)
+- 🔭 I’m currently working on [Colorsnack](https://github.com/james-wienecke/colorsnack)
 
-- 🌱 I’m currently learning **Next.JS**, **Spring Boot**
+- 🌱 I’m currently learning **Next.JS**, **Spring Boot**, **React Native**
 
 - 👨‍💻 Browse [my github repos](https://github.com/james-wienecke?tab=repositories)
 
